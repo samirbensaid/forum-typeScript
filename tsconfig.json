@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "lib": ["dom", "dom.iterable", "esnext"],
+      "allowJs": true,
+      "skipLibCheck": true,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "noFallthroughCasesInSwitch": true,
+      "module": "esnext",
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "noEmit": true,
+      "jsx": "react-jsx",
+      "noImplicitAny": true,
+      "noUncheckedIndexedAccess": true,
+    },
+    "include": ["src", "index.d.ts"]
+  }
+    
+  
+    // "strictNullChecks":false    //ma3ach tthabet fel possibilti mta3 el null

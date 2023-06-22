@@ -1,0 +1,287 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "nihil at amet non hic quia que",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex iste esse id.  labore culpa",
+      "id_user": 1
+    },
+    {
+      "title": "aa",
+      "description": "aaaa",
+      "id_user": 1,
+      "id": 2
+    },
+    {
+      "title": "test1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, ullam fugit laudantium voluptas dolor hic eum vel culpa veniam, excepturi voluptates saepe nulla reprehenderit quisquam asperiores nihil perspiciatis illo itaque.",
+      "id_user": 1,
+      "id": 3
+    },
+    {
+      "title": "test2",
+      "description": "test yryryrryry",
+      "id_user": 1,
+      "id": 7
+    },
+    {
+      "title": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "description": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "id_user": 1,
+      "id": 8
+    },
+    {
+      "title": "azertyy",
+      "id_category": 3,
+      "description": "azezaeaz",
+      "id_user": 1,
+      "id": 12
+    },
+    {
+      "title": "kkkkkkkkkkkkkkkkkkkkkk",
+      "id_category": 1,
+      "description": "grytuykgcgcyqewth",
+      "id_user": 1,
+      "id": 13
+    },
+    {
+      "title": "glikmlbm",
+      "id_category": 2,
+      "description": "jmblmblbm",
+      "id_user": 1,
+      "id": 16
+    },
+    {
+      "title": "llmblmbl",
+      "id_category": 3,
+      "description": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmbjlk",
+      "id_user": 1,
+      "id": 17
+    },
+    {
+      "title": "hxhfjbjhnxh",
+      "id_category": 2,
+      "description": "ghxgjxhhn",
+      "id_user": 1,
+      "id": 18
+    },
+    {
+      "title": "aeazeaz",
+      "id_category": 2,
+      "description": "ezaeazezaeaz",
+      "id_user": 1,
+      "id": 19
+    },
+    {
+      "title": "hhhhhhhhhh",
+      "id_category": 2,
+      "description": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "id_user": 1,
+      "id": 20
+    }
+  ],
+  "comment": [
+    {
+      "comment": "test",
+      "id_article": "3",
+      "id_user": 1,
+      "creationDate": "2023-06-02T09:50:36.290Z",
+      "id": 36,
+      "rate": 0
+    },
+    {
+      "comment": "hello",
+      "id_article": "3",
+      "id_user": 1,
+      "creationDate": "2023-06-07T10:16:41.293Z",
+      "id": 39
+    },
+    {
+      "comment": "zeaeazeza",
+      "id_article": "7",
+      "id_user": 1,
+      "creationDate": "2023-06-07T10:32:58.025Z",
+      "id": 43
+    },
+    {
+      "comment": "d",
+      "id_article": "7",
+      "id_user": 1,
+      "creationDate": "2023-06-07T10:57:38.808Z",
+      "id": 46
+    },
+    {
+      "comment": "d",
+      "id_article": "7",
+      "id_user": 1,
+      "creationDate": "2023-06-07T10:57:45.808Z",
+      "id": 47
+    },
+    {
+      "comment": "rzrerez",
+      "id_article": "7",
+      "id_user": 1,
+      "creationDate": "2023-06-07T10:58:58.503Z",
+      "id": 50
+    },
+    {
+      "comment": "said",
+      "id_article": "2",
+      "id_user": 1,
+      "creationDate": "2023-06-12T14:17:14.693Z",
+      "id": 54
+    },
+    {
+      "comment": "test",
+      "id_article": "2",
+      "id_user": 1,
+      "creationDate": "2023-06-12T14:49:34.385Z",
+      "id": 55
+    },
+    {
+      "comment": "erZER<ZRFE",
+      "id_article": "1",
+      "id_user": 1,
+      "creationDate": "2023-06-16T15:16:56.097Z",
+      "id": 60
+    },
+    {
+      "comment": "said samir",
+      "id_article": "1",
+      "id_user": 1,
+      "creationDate": "2023-06-20T08:45:20.571Z",
+      "id": 61
+    },
+    {
+      "comment": "ededddddddddddddddddddd",
+      "id_article": "1",
+      "id_user": 1,
+      "creationDate": "2023-06-20T10:25:28.178Z",
+      "id": 62
+    },
+    {
+      "comment": "test",
+      "id_article": "1",
+      "id_user": 1,
+      "creationDate": "2023-06-20T10:33:08.765Z",
+      "id": 63
+    },
+    {
+      "comment": "test",
+      "id_article": "1",
+      "id_user": 1,
+      "creationDate": "2023-06-20T10:44:22.406Z",
+      "id": 64
+    },
+    {
+      "comment": "test",
+      "id_article": "1",
+      "id_user": 1,
+      "creationDate": "2023-06-20T10:44:34.901Z",
+      "id": 65
+    }
+  ],
+  "user": [
+    {
+      "name": "samir",
+      "email": "sair.said90@gmail.com",
+      "password": "12354685",
+      "id": 51,
+      "role": [
+        "Admin"
+      ]
+    },
+    {
+      "name": "samir",
+      "email": "sair.said90@gmail.com",
+      "password": "0000",
+      "id": 52
+    }
+  ],
+  "subComment": [
+    {
+      "comment": "azeazeaz",
+      "id_comment": 54,
+      "id_user": 1,
+      "creationDate": "2023-06-14T09:51:23.635Z",
+      "id": 25
+    },
+    {
+      "comment": "mmmmmmmmmmmmmm",
+      "id_comment": 54,
+      "id_user": 1,
+      "creationDate": "2023-03-14T13:15:49.085Z",
+      "id": 28
+    },
+    {
+      "comment": "dddd",
+      "id_comment": 55,
+      "id_user": 1,
+      "creationDate": "2023-01-14T13:16:00.005Z",
+      "id": 31
+    },
+    {
+      "comment": "ddaaaaaaaa",
+      "id_comment": 55,
+      "id_user": 1,
+      "creationDate": "2023-06-14T13:16:05.333Z",
+      "id": 32
+    },
+    {
+      "comment": "ssss",
+      "id_comment": 56,
+      "id_user": 1,
+      "creationDate": "2023-06-15T15:16:08.380Z",
+      "id": 37
+    },
+    {
+      "comment": "aaaa",
+      "id_comment": 51,
+      "id_user": 1,
+      "creationDate": "2023-06-15T15:18:16.456Z",
+      "id": 41
+    },
+    {
+      "comment": "ffff",
+      "id_comment": 51,
+      "id_user": 1,
+      "creationDate": "2023-06-15T15:25:37.748Z",
+      "id": 42
+    },
+    {
+      "comment": "ghxgh",
+      "id_comment": 59,
+      "id_user": 1,
+      "creationDate": "2023-06-16T08:09:30.974Z",
+      "id": 43
+    },
+    {
+      "comment": "dddddddddd",
+      "id_comment": 60,
+      "id_user": 1,
+      "creationDate": "2023-06-20T08:51:25.816Z",
+      "id": 44
+    },
+    {
+      "comment": "kuihj",
+      "id_comment": 61,
+      "id_user": 1,
+      "creationDate": "2023-06-20T10:20:42.357Z",
+      "id": 45
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Question"
+    },
+    {
+      "id": 2,
+      "name": "News"
+    },
+    {
+      "id": 3,
+      "name": "Information"
+    }
+  ]
+}
